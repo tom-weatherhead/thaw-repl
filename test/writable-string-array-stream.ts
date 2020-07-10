@@ -25,7 +25,11 @@ export class WritableStringArrayStream extends Writable {
 		return this.asyncGenerate();
 	}
 
-	public _write(chunk: string, encoding: string, callback: () => void) {
+	public _write(
+		chunk: string,
+		encoding: string,
+		callback: () => void
+	): void {
 		if (Buffer.isBuffer(chunk)) {
 			chunk = chunk.toString();
 		}

@@ -12,5 +12,9 @@ A generic read-evaluate-print loop. Written in TypeScript for Node.js.
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/tom-weatherhead/thaw-repl/blob/master/LICENSE)
 
+## Features
+
+- Self-contained: No run-time package dependencies!
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
