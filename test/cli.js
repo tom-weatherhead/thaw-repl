@@ -2,6 +2,7 @@
 
 'use strict';
 
+// eslint-disable-next-line @typescript-eslint/no-var-requires
 const repl = require('..');
 
 function isExitCommand(command) {
