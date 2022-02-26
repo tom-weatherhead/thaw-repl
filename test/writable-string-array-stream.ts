@@ -4,7 +4,7 @@
 
 import { Writable } from 'stream';
 
-import { stringEncoding } from '../lib/main';
+import { stringEncoding } from '..';
 
 export class WritableStringArrayStream extends Writable {
 	private readonly stringArray: string[] = [];

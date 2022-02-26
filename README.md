@@ -26,7 +26,18 @@ Obligatory BadgeFest:
 [![license][license-badge-image]][license-url]
 [![FOSSA Status][fossa-badge-image]][fossa-badge-url]
 
-<!-- [![dependents](https://badgen.net/npm/dependents/thaw-repl)](https://badgen.net/npm/dependents/thaw-repl) -->
+## Features
+
+- Self-contained: No run-time package dependencies!
+
+## Installation
+To install the stable version:
+```
+npm install --save thaw-repl
+```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
 [build-status-badge-image]: https://secure.travis-ci.org/tom-weatherhead/thaw-repl.svg
 [build-status-url]: https://travis-ci.org/tom-weatherhead/thaw-repl
@@ -70,18 +81,5 @@ Obligatory BadgeFest:
 [prettier-url]: https://github.com/prettier/prettier
 [license-badge-image]: https://img.shields.io/github/license/mashape/apistatus.svg
 [license-url]: https://github.com/tom-weatherhead/thaw-repl/blob/master/LICENSE
-[fossa-badge-image]: https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmoment%2Fmoment.svg?type=shield
-[fossa-badge-url]: https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fmoment%2Fmoment?ref=badge_shield
-
-## Features
-
-- Self-contained: No run-time package dependencies!
-
-## Installation
-To install the stable version:
-```
-npm install --save thaw-repl
-```
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[fossa-badge-image]: https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Ftom%2Dweatherhead%2Fthaw%2Drepl.svg?type=shield
+[fossa-badge-url]: https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Ftom%2Dweatherhead%2Fthaw%2Drepl?ref=badge_shield

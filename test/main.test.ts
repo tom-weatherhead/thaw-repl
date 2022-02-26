@@ -4,7 +4,7 @@
 
 import { Readable } from 'stream';
 
-import { readEvaluatePrintLoop } from '../lib/main';
+import { readEvaluatePrintLoop } from '..';
 
 // import { ReadableStringArrayStream } from './readable-string-array-stream';
 import { WritableStringArrayStream } from './writable-string-array-stream';
